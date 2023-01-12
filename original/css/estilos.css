@@ -11,14 +11,13 @@ html {
 }
 
 body {
-  background: linear-gradient( 96deg, yellow, blue, orange, green, red);
   height: inherit;
   display: flex;
   flex-direction: column;
   font-family: 'Fira Sans', sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  color: #2a2e31;
+  color: #79838c;
 }
 
 a {
